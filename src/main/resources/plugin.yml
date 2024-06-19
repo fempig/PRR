@@ -1,0 +1,6 @@
+name: PigRemoveReports
+version: '${project.version}'
+main: ru.femboypig.pigremovereports.PigRemoveReports
+api-version: '1.20'
+description: Probably the simplest minecraft plugin that disables chat reporting.
+author: femboyPig
